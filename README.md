@@ -17,7 +17,7 @@
 
 <details>
 
-  <summary>Data</summary>
+  <summary>:satellite: Data</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cishocksr&hide=html,css&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img align="left" alt="cishocksr' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cishocksr&show_icons=true&hide_border=true&theme=merko" />
 
