@@ -44,6 +44,6 @@
     <i>Lets grab some :coffee: and chat! Make something great! </i>
     <br>
     <a href='https://twitter.com/iLogiXpozed'><img src='./images/twitter-fill.svg' /></a>
-    <a href='https://linkedin.com/in/christopherishockley'></a><img src='./images/linkedin-fill.svg' />
-    <a hreft='mailto:cishockleysr@gmail.com'></a><img src='./images/mail-line.svg' />
+    <a href='https://www.linkedin.com/in/christopherishockley/'><img src='./images/linkedin-fill.svg' /></a>
+    <a href='mailto:cishockleysr@gmail.com'><img src='./images/mail-line.svg' /></a>
   </p>
